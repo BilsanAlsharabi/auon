@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "755764845067",
+    "firebase_url": "https://placepicker-242d3.firebaseio.com",
+    "project_id": "placepicker-242d3",
+    "storage_bucket": "placepicker-242d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755764845067:android:8941dc8e8f161deb",
+        "android_client_info": {
+          "package_name": "com.example.asus.placepicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755764845067-av47t8kjfi1svof5pf7rktt6ugq3av31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLFNYw44k4bjkJVFYtRzgLl7Y3CbiuX4E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

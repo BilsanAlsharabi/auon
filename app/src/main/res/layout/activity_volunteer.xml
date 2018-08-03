@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VolunteerActivity"
+    android:background="@drawable/b">
+
+
+    <TextView
+        android:id="@+id/textView2"
+
+        android:layout_width="201dp"
+        android:layout_height="95dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="95dp"
+        android:text="الطلب"
+        android:textColor="@color/colorPrimary"
+        android:textSize="60dp" />
+
+    <TextView
+        android:id="@+id/tV_location"
+        android:layout_width="324dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="240dp"
+        android:text="العنوان  :"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/tv_Service"
+        android:layout_width="319dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="226dp"
+        android:text="نوع الخدمة :"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/btn_confirm"
+        android:layout_width="286dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="58dp"
+        android:background="@color/azur"
+        android:text="قبول الطلب"
+        android:textSize="18dp" />
+
+
+
+</RelativeLayout>

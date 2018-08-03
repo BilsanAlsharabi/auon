@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PlacePicker</string>
+    <string name="google_place_api">AIzaSyAds2C9MVROAv7KU8m-e74bKx-DLeZ1HIE</string>
+    <string-array name="planets_array">
+
+        <item>تحديد الخدمة</item>
+        <item>عربة</item>
+        <item>حمل الأشياء</item>
+        <item>ترجمة</item>
+        <item>ضياع</item>
+        <item>أخرى</item>
+
+    </string-array>
+</resources>
